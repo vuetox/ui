@@ -1,5 +1,5 @@
 {
-  "name": "vuetox-ui",
+  "name": "vuetox",
   "version": "0.1.0",
   "main" : ".dist/vuetox.common.js",
   "files": ["dist/*"],
